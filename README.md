@@ -24,13 +24,17 @@ I can spend hours coding or drawing without noticing the time.
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/TU_USER" target="_blank">
+  <a href="https://x.com/comodoresito" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://www.youtube.com/@Imcomodoresito" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+  <a href="https://discord.gg/A3XUzz33" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+
 
 ---
 
