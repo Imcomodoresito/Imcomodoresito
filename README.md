@@ -28,7 +28,7 @@ I can spend hours coding or drawing without noticing the time.
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.youtube.com/@Imcomodoresito" target="_blank">
-    <img src="[https://skillicons.dev/icons?i=youtube](https://raw.githubusercontent.com/LelouchFR/skill-icons/96ba6a7a6fe40b2492160a11dc9b7a7c7a151ba3/assets/youtube.svg)" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="48" height="48" />
   </a>
   <a href="https://discord.gg/A3XUzz33" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
