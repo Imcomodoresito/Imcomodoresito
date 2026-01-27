@@ -27,12 +27,16 @@ I can spend hours coding or drawing without noticing the time.
   <a href="https://x.com/comodoresito" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.youtube.com/@Imcomodoresito" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="48" height="48" style="filter: invert(18%) sepia(94%) saturate(7486%) hue-rotate(358deg);" />
+
+  <a href="https://www.youtube.com/@Imcomodoresito" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+
   <a href="https://discord.gg/A3XUzz33" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+
 
 
 ---
