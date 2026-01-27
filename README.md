@@ -13,14 +13,6 @@ I can spend hours coding or drawing without noticing the time.
 
 ---
 
-## 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode" />
-</p>
-
----
-
 ## 🚀 What I'm doing
 
 - Learning and experimenting with code
