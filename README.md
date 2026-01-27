@@ -29,7 +29,8 @@ I can spend hours coding or drawing without noticing the time.
   </a>
 
   <a href="https://www.youtube.com/@Imcomodoresito" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="48" height="48" />
+  <img src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7d1e4e4e-50e9-4b93-8db8-9e38e6c6f854" />
+" width="48" height="48" />
 </a>
 
   <a href="https://discord.gg/A3XUzz33" target="_blank">
