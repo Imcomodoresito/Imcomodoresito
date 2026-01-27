@@ -42,11 +42,7 @@ I can spend hours coding or drawing without noticing the time.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight" />
-</p>
 
 <!--
 **Imcomodoresito/imcomodoresito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
