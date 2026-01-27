@@ -29,8 +29,8 @@ I can spend hours coding or drawing without noticing the time.
   </a>
 
   <a href="https://www.youtube.com/@Imcomodoresito" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="48" height="48" />
+</a>
 
   <a href="https://discord.gg/A3XUzz33" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
