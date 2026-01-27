@@ -1,4 +1,52 @@
 ## Hi there 👋
+# Hi, I'm comodoresito 👋
+
+A chill player who enjoys building things.
+
+I like to **program, draw and play games**.  
+I can spend hours coding or drawing without noticing the time.
+
+- 🎮 Gamer
+- 💻 Programmer
+- 🎨 I draw sometimes
+- 😌 Very chill, a bit creative
+
+---
+
+## 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm doing
+
+- Learning and experimenting with code
+- Working on small personal projects
+- Improving my skills step by step
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/TU_USER" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight" />
+</p>
 
 <!--
 **Imcomodoresito/imcomodoresito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
