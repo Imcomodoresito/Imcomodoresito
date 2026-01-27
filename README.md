@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm comodoresito 👋
 
 A chill player who enjoys building things.
