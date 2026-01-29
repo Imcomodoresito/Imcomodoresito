@@ -40,7 +40,7 @@ I can spend hours coding or drawing without noticing the time.
 </a>
 
 
-  <a href="https://discord.gg/A3XUzz33" target="_blank">
+  <a href="[https://discord.gg/A3XUzz33](https://discord.com/users/1459646343982088346)" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
