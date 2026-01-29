@@ -1,4 +1,4 @@
-# Hi, I'm comodoresito 👋
+# Hi guys, I'm comodoresito  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json" />
 
 A chill player who enjoys building things.
 
